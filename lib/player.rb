@@ -1,4 +1,3 @@
-
 class Player
   include Players:Human
   attr_reader :token  
