@@ -2,4 +2,4 @@ require 'bundler'
 Bundler.require
 
 require_all 'lib'
-require_all "players"
+require_relative_all "players"
