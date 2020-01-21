@@ -3,6 +3,7 @@ module Players
     attr_reader :position
     def move(input)
       @position = input
+      @
     end
       
   end
