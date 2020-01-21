@@ -1,5 +1,6 @@
 module Players
   class Human < Player
-  def intialize
-  end
+      def intialize
+      end
+end
 end
